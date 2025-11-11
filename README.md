@@ -42,16 +42,11 @@
 - More Easter Eggs: Hidden surprises throughout the system.
 
 ## 💡 Usage
-- Visit [This Website](https://windows-12-web.vercel.app/) to explore the OS(or a clone of an OS).
+- Visit [This Website](https://12adiluf.github.io/Windows-12-web/) to explore the OS(or a clone of an OS).
 
 💬 Password Hint: “First Four Natural Numbers”
 
 ## 🖥️ Best Viewed On
 - Desktop or laptop (landscape)
 - Fullscreen mode
-
-## 🛠️ Built With
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
